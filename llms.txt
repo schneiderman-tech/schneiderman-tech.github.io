@@ -16,5 +16,7 @@ Key facts:
 - [Website](https://schneiderman.tech/mermaid/)
 - [Schneiderman Tech](https://schneiderman.tech/)
 - [Guide: edit Mermaid diagrams in Confluence Cloud without writing code](https://schneiderman.tech/mermaid/guides/edit-mermaid-diagrams-confluence/)
+- [Does Confluence support Mermaid? (short answer and how to add it)](https://schneiderman.tech/mermaid/does-confluence-support-mermaid/)
+- [Flowcharts in Confluence without drawing](https://schneiderman.tech/mermaid/flowcharts-in-confluence/)
 - [Support](mailto:support@schneiderman.tech)
 - [Privacy policy](https://github.com/schneiderman-tech/visual-mermaid-support/blob/main/PRIVACY.md)
